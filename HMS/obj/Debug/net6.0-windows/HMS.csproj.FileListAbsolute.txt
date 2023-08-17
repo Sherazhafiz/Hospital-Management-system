@@ -1,0 +1,132 @@
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.exe
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.deps.json
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.runtimeconfig.json
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.dll
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.pdb
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\usman\New folder (2)\HMS Project\HMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.AssemblyReference.cache
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AdminLogin.resources
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Form1.resources
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.GenerateResource.cache
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfoInputs.cache
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfo.cs
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CopyComplete
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.dll
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\refint\HMS.dll
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.pdb
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.genruntimeconfig.cache
+D:\usman\New folder (2)\HMS Project\HMS\obj\Debug\net6.0-windows\ref\HMS.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.exe
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.deps.json
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.runtimeconfig.json
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.pdb
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.AssemblyReference.cache
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AdminLogin.resources
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Form1.resources
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Patient.resources
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.GenerateResource.cache
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfoInputs.cache
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfo.cs
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CopyComplete
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.dll
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\refint\HMS.dll
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.pdb
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.genruntimeconfig.cache
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\ref\HMS.dll
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Properties.Resources.resources
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Staff.resources
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Bed.resources
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Doctor.resources
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\usman\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+D:\usman\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Home.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.exe
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.deps.json
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.runtimeconfig.json
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.pdb
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.AssemblyReference.cache
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AdminLogin.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Bed.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Doctor.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Form1.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Home.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Patient.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Properties.Resources.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Staff.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.GenerateResource.cache
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfoInputs.cache
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfo.cs
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CopyComplete
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\refint\HMS.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.pdb
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.genruntimeconfig.cache
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\ref\HMS.dll
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.DoctorReport.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Patient_Report.resources
+D:\DBMS Final Project\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Staff_Report.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.exe
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.deps.json
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.runtimeconfig.json
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\HMS.pdb
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\CircularProgressBar.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\FontAwesome.Sharp.Pro.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\WinFormAnimation.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.AssemblyReference.cache
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AdminLogin.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Bed.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Doctor.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.DoctorReport.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Form1.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Home.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Patient.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Patient_Report.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Properties.Resources.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Staff.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.Staff_Report.resources
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.GenerateResource.cache
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfoInputs.cache
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.AssemblyInfo.cs
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CoreCompileInputs.cache
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.csproj.CopyComplete
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\refint\HMS.dll
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.pdb
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\HMS.genruntimeconfig.cache
+D:\DBMS Final Project\My Work\HMS Project\HMS Project\HMS\obj\Debug\net6.0-windows\ref\HMS.dll
